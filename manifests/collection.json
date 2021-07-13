@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://vdpkarin.github.io/vkc2707/manifests/manifest99.json",
     "label" : "Boeren"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://vdpkarin.github.io/vkc2707/manifests/manifest69.json",
+    "label" : "Oude dame met maskers"
   } ]
 }
