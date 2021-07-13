@@ -1,0 +1,61 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://vdpkarin.github.io/vkc2707/manifests/manifest99.json",
+  "@type" : "sc:Manifest",
+  "label" : "Boeren",
+  "metadata" : [ {
+    "label" : "Creator",
+    "value" : "Jean Brusselmans"
+  }, {
+    "label" : "Date",
+    "value" : "20ste eeuw - 1928"
+  }, {
+    "label" : "Full description",
+    "value" : "Zoals zovele kunstenaars van zijn generatie zocht Jean Brusselmans in de jaren 1920-1930 naar een synthese tussen een strakke vormgeving, afgeleid van het kubisme, en een meer lyrisch expressionistische benadering. De inspiratie voor Boeren uit 1928 zocht de kunstenaar bij de arbeid van zijn dorpsgenoten in Dilbeek, een dorp in het heuvelachtige Pajottenland in de buurt van Brussel. De figuren in het schilderij zijn ontdaan van individuele trekken en fungeren enkel als onderdeel van een geometrische compositie. Uit de talrijke voorstudies, waarvan het Museum er een twintigtal bezit, blijkt hoe Brusselmans op een rationele manier zijn compositie construeerde en het landschap, de personages en de objecten binnen een schema van driehoeken, diagonalen en rasters vorm gaf."
+  }, {
+    "label" : "Inventory n°",
+    "value" : "1999-Q"
+  } ],
+  "description" : [ {
+    "@value" : "Boeren - Olieverfschilderij op doek",
+    "@language" : "nl"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Museum voor Schone Kunsten Gent",
+  "sequences" : [ {
+    "@id" : "http://fda63027-1689-4ce6-8418-af713fa0e211",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://1e1f10df-a4d6-498f-913c-75403e9a8ced",
+      "@type" : "sc:Canvas",
+      "label" : "Boeren_1999q",
+      "height" : "256",
+      "width" : "256",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://20c60127-cb58-4838-97e7-680560c3d891",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vdpkarin.github.io/vkc2707/images/1999q/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vdpkarin.github.io/vkc2707/images/1999q",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5189,
+          "width" : 5163
+        },
+        "on" : "http://1e1f10df-a4d6-498f-913c-75403e9a8ced"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
