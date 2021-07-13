@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 162,
+    "height" : 163
+  }, {
+    "width" : 323,
+    "height" : 325
+  }, {
+    "width" : 646,
+    "height" : 649
+  }, {
+    "width" : 1291,
+    "height" : 1298
+  }, {
+    "width" : 2582,
+    "height" : 2595
+  }, {
+    "width" : 5163,
+    "height" : 5189
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5163,
+  "@id" : "https://vdpkarin.github.io/vkc2707/images/1999q",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5189
+}
