@@ -1,0 +1,61 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://vdpkarin.github.io/vkc2707/manifests/manifest69.json",
+  "@type" : "sc:Manifest",
+  "label" : "Oude dame met maskers",
+  "metadata" : [ {
+    "label" : "Creator",
+    "value" : "James Ensor"
+  }, {
+    "label" : "Date",
+    "value" : "19de eeuw - 1889"
+  }, {
+    "label" : "Full description",
+    "value" : "'Oude dame met maskers' is geschilderd op het hoogtepunt van Ensors zogeheten fantastische periode, ook wel zijn maskerperiode genoemd. Oorspronkelijk voerde de kunstenaar het portret in opdracht uit. Nadat het schilderij echter werd geweigerd, transformeerde Ensor het om tot een overvolle maskerade waarin de korte perspectief en de opeenstapeling van figuurtjes de dramatische spanning versterken. De geportretteerde is vermoedelijk Neel Doff, de Nederlandse dichteres en publiciste. De zachte uitstraling van de oudere dame contrasteert fel met de grimmige maskers en het sinistere doodshoofd die zich rond haar verdringen. Het agressieve, contrastrijke koloriet van felle roden en groenen beklemtonen het dreigende karakter van de spottende maskers. Deze bevreemdende thematiek, het gebruik van zuivere, felle kleuren en de zwaar opgebrachte verflagen zullen Ensors oeuvre van dan af blijvend kenmerken."
+  }, {
+    "label" : "Inventory n°",
+    "value" : "1969-B"
+  } ],
+  "description" : [ {
+    "@value" : "Oude dame met maskers - Olieverfschilderij op doek",
+    "@language" : "nl"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Museum voor Schone Kunsten Gent",
+  "sequences" : [ {
+    "@id" : "http://af693b88-1818-4024-8182-77034ba81759",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://29535a52-d789-4aa1-b127-48953f3b4bf9",
+      "@type" : "sc:Canvas",
+      "label" : "Oude dame met maskers_1969b",
+      "height" : "256",
+      "width" : "256",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7d799e5c-1fe1-4c83-98f2-fa1d527e464a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vdpkarin.github.io/vkc2707/images/1969b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vdpkarin.github.io/vkc2707/images/1969b",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6820,
+          "width" : 5227
+        },
+        "on" : "http://29535a52-d789-4aa1-b127-48953f3b4bf9"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
